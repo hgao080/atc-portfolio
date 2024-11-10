@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 # To check if you Node.js installed
 node -v
 ```
-
+---
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/hgao080/atc-portfolio.git
