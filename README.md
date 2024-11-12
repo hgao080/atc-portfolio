@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 ### Prerequisites
 - **Node.js:** Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 ```bash
-# To check if you Node.js installed
+# To check if you have Node.js installed
 node -v
 ```
 ---
@@ -42,4 +42,4 @@ npm install
 npm start
 ```
 
-The site should now be accessible at [http://localhost:3000](http://localhost:3000) in your browser.
+The site should now be accessible at [http://localhost:3000/atc-portfolio](http://localhost:3000/atc-portfolio) in your browser.
