@@ -15,3 +15,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Header";
+  src: local("Raleway-Light"),
+  url('../public/assets/fonts/Raleway-Light.ttf') format('truetype');
+}
