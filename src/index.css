@@ -21,3 +21,9 @@ code {
   src: local("Raleway-Light"),
   url('../public/assets/fonts/Raleway-Light.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: "Title";
+  src: local("Roboto-Medium"),
+  url('../public/assets/fonts/Roboto-Medium.ttf') format('truetype');
+}

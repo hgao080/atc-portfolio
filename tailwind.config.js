@@ -10,6 +10,7 @@ module.exports = {
       },
       fontFamily: {
         header: ['Header'],
+        title: ['Title'],
       }
     },
   },
