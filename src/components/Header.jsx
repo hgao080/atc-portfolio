@@ -1,6 +1,6 @@
 const Header = () => {
     return ( 
-        <div className="flex relative justify-center items-center h-28">
+        <div className="flex relative justify-center items-center h-28 sticky top-0">
             <div className="flex items-center absolute left-[40px] bg-[#7D7D7D22] px-[30px] h-[55px] rounded-full shadow-lg">
                 <img src="/atc-portfolio/assets/logo.png" alt="" className="w-[80px] mt-[4px] h-auto" />
             </div>
