@@ -22,7 +22,7 @@ const Developers = () => {
                 </div>
 
                 <div className="flex flex-col items-center">
-                    <img src="/atc-portfolio/logo192.png" alt="" width = "200" height="200"/>
+                    <img src="/atc-portfolio/logo192.png"  alt="" className="rounded-3xl w-52 h-52 mb-[8px] object-cover"/>
                     <div>SHIMING LI</div>
                     <div>Developer</div>
                 </div>
@@ -34,13 +34,13 @@ const Developers = () => {
                 </div>
 
                 <div className="flex flex-col items-center">
-                    <img src="/atc-portfolio/logo192.png" alt="" width = "200" height="200"/>
+                    <img src="/atc-portfolio/logo192.png"  alt="" className="rounded-3xl w-52 h-52 mb-[8px] object-cover"/>
                     <div>JASON LIM</div>
                     <div>Developer</div>
                 </div>
 
                 <div className="flex flex-col items-center">
-                    <img src="/atc-portfolio/logo192.png" alt="" width = "200" height="200"/>
+                    <img src="/atc-portfolio/logo192.png"  alt="" className="rounded-3xl w-52 h-52 mb-[8px] object-cover"/>
                     <div>ANDY HUANG</div>
                     <div>Developer</div>
                 </div>
