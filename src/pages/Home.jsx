@@ -1,6 +1,11 @@
+import Title from "../components/Title";
+
 const Home = () => {
     return (
-        <div>Home</div>
+        <div>
+            <div className=""></div>
+            <Title></Title>
+        </div>
     );
 }
  
