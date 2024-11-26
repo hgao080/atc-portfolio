@@ -1,6 +1,6 @@
 const Header = () => {
     return ( 
-    <header className="bg-gradient-to-r from-cyan-500 to-blue-500 flex justify-center relative h-[100px] items-center">  
+    <header className="flex justify-center relative h-[100px] items-center">
     
     <div className="absolute left-[40px] bg-[#7D7D7D50] px-[50px] rounded-full">
         <img src="/atc-portfolio/assets/ATC logo.png" alt="ATC Logo" className="w-auto h-[60px]" />
