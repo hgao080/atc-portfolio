@@ -1,6 +1,6 @@
 const Title = () => {
     return ( 
-        <div className="flex justify-center bg-black h-[910px]">
+        <div className="flex justify-center h-[910px] mt-[10rem]">
             <div className="flex flex-col items-center w-full h-fit">
                 <h2 className="relative text-[150px] bg-gradient-to-bl from-[#9a9a9a] from-[35%] to-white to-[70%] text-transparent bg-clip-text">
                     Aspiring
