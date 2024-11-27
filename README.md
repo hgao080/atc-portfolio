@@ -42,4 +42,4 @@ npm install
 npm start
 ```
 
-The site should now be accessible at [http://localhost:3000/atc-portfolio](http://localhost:3000/atc-portfolio) in your browser.
+The site should now be accessible at [http://localhost:3000/atc-portfolio](http://localhost:3000/atc-portfolio) in your browser. Alternatively the page can be accessed at [ATC Portfolio(https://hgao080.github.io/atc-portfolio/)]
