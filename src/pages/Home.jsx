@@ -44,7 +44,7 @@ const Home = () => {
             <div id="developers" className="section scroll-mt-[100px]">
                 <Developers></Developers>
             </div>
-            <div className="h-[8rem] text-white mt-[10rem] pt-[3rem] text-center text-[1.2rem]">
+            <div className="font-raleway text-[18px] h-[8rem] text-white mt-[10rem] pt-[3rem] text-center text-[1.2rem]">
                 Thank you for visiting our portfolio! We appreciate your time and support. Feel free to reach out to us for collaborations or inquiries
             </div>
         </div>

@@ -10,11 +10,11 @@ const Header = ({activeSection}) => {
     </div>
     
     <div className="text-white flex gap-[120px] bg-[#7D7D7D50] rounded-full px-[80px] h-[60px] items-center">
-        <a href="#home" className={`${underline} + ${activeSection === 'home' || activeSection === '' ? 'after:scale-x-100' : 'after:scale-x-0'}`}>Homepage</a>
+        <a href="#home" className={`font-raleway text-[24px] ${underline} + ${activeSection === 'home' || activeSection === '' ? 'after:scale-x-100' : 'after:scale-x-0'}`}>Homepage</a>
 
-        <a href="#projects" className={`${underline} + ${activeSection === 'projects' ? 'after:scale-x-100' : 'after:scale-x-0'}`}>ATC Projects</a>
+        <a href="#projects" className={`font-raleway text-[24px] ${underline} + ${activeSection === 'projects' ? 'after:scale-x-100' : 'after:scale-x-0'}`}>ATC Projects</a>
 
-        <a href="#developers" className={`${underline} + ${activeSection === 'developers' ? 'after:scale-x-100' : 'after:scale-x-0'}`}>Developers Section</a>
+        <a href="#developers" className={`font-raleway text-[24px] ${underline} + ${activeSection === 'developers' ? 'after:scale-x-100' : 'after:scale-x-0'}`} >Developers Section</a>
     </div>
     
     

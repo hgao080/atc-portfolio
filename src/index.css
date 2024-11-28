@@ -19,3 +19,28 @@ code {
 html {
   scroll-behavior: smooth;
 }
+
+@font-face {
+  font-family: 'raleway';
+  src: url('/public/assets/fonts/raleway.ttf');
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('/public/assets/fonts/Roboto-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('/public/assets/fonts/Roboto-Thin.ttf');
+  font-weight: thin;
+}
+
+
+@font-face {
+  font-family: 'roboto';
+  src: url('/public/assets/fonts/Roboto-Medium.ttf');
+  font-weight: medium;
+
+}

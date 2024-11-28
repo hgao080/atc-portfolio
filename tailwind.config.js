@@ -7,7 +7,11 @@ module.exports = {
     extend: {
         backgroundImage: {
             'background': "url('/public/assets/images/background.png')",
-          }
+          },
+        fontFamily:{
+          'raleway': ['raleway', 'serif'],
+        },
+        
     },
   },
   plugins: [],

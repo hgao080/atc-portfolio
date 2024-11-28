@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'raleway';
+  src: url(/public/assets/fonts/raleway.ttf);
+}
